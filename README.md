@@ -1,7 +1,7 @@
 # genDC
 Mroczny generator parodii Marvela.
-Tak mroczna, że aż strach :0
-Dla BloodThirstyCat Studio
+Tak mroczna, że aż strach się bać....
+Oto dzieło dla BloodThirstyCat Studio:
 
 Czyli proty refork dzieła robercik10192
 https://github.com/robercik10192/robercik10192.github.io/blob/master/README.md
