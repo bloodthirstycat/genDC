@@ -18,7 +18,7 @@ var bohaterowie_male = [
 "Hawkman",
 "Constantine",
 "Superman",
-"Green Lathern"
+"Green Lantern"
 ];
 
 var bohaterowie_female = [
@@ -37,17 +37,18 @@ var bohaterowie_female = [
 "Hawk Girl",
 "Cassandra Kain",
 "Angela Roth",
+"Talia al Ghul",
 "Reven"
 ];
 
 var evilman = [
-"Talia al Ghul",
 "Darkseid",
 "Merlin",
 "ScareCrow",
 "DoomsDay",
 "Joker",
 "Bane",
+"Sinestro",
 "Ichabod",
 "Killer Croc",
 "Deathstroke",
@@ -62,7 +63,7 @@ var evilman = [
 "Batman who laughs",
 "Harley Dent",
 "Peugwin",
-"DoomsDay Batman"
+"Doomsday Batman"
 ];
 
 var aktorzy_male = [
@@ -204,6 +205,7 @@ var kto = [
 "fani Marvela",
 "połowa Gotham",
 "pieniądz",
+"James Gordon",
 "goście odpowiedzialni za DC Universe",
 "koleżanka",
 "rząd DC",
@@ -218,7 +220,7 @@ var kto = [
 "jej ręka",
 "Stalin",
 "Rasputin",
-"chinski cesarz",
+"Chiński Cesarz",
 "Hitler",
 "jego teść",
 "jego noga",
@@ -296,13 +298,13 @@ var co_z_kobieta = [
 var co_sie_dzieje = [
 "zdradza ją z jej najlepszą koleżanką",
 "ginie w wyniku eksplozji atomowej",
-"ginie potrącony przez samochód",
+"zostaje zabita przez potrąconie samochodem",
 "ginie w niewyjaśnionych okolicznościach",
 "zostaje porwany przez UFO",
 "umiera w męczarniach przez nią",
 "stwierdza że kłamie",
 "przemawia dziwnym głosem",
-"ukradł im pieniądze",
+"zabrali im pieniądze",
 "odnalazło 7 jąder atomowych",
 "wypowiada krwawą wojnę",
 "stało się niewolnikami systemu",
