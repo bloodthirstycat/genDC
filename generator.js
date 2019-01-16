@@ -186,6 +186,10 @@ var no_i_co_z_nia_robil = [
 "próbował ratować związek z ",
 "zamordował z zimną krwią ",
 "skaleczył",
+"pozbawił mocy",
+"doprowadził do szaleństwa",
+"doprowadził do niepoełnosprawności",
+"uszkodził",
 "zdradził swoją jedyną w najgorszy sposób",
 "oszukał",
 "opuścił",
@@ -240,8 +244,7 @@ var kto = [
 "połowa redakcji Daily Planet",
 "cały DC",
 "kuzyn",
-"ich sąsiad",
-"ex"
+"ich sąsiad"
 ];
 
 var co_z_kobieta = [
@@ -253,8 +256,9 @@ var co_z_kobieta = [
 "okradła biedne dzieci",
 "straciła swój dom",
 "zepsuła swój samochód",
-"prosi o pomoc Xmen",
+"prosi o pomoc Suicide Squad",
 "skrytkowała polski rząd",
+"zaćpała się w ciemnej dzielnicy w Gotham",
 "pozwoliła się zdemaskować",
 "ma wątpliwośći co do otaczającej jej rzeczywistości",
 "przypadkowo zamordowała agenta FBI",
@@ -354,6 +358,8 @@ var co_postanawia = [
 "odciąć się od rodziny",
 "spędzić noc z jej wrogiem",
 "zbudować nową broń",
+"dołączyć się do InJustice Leauge",
+"zniszczyć Justice Leauge",
 "znaleźć innego faceta, póki jeszcze może",
 "zmienić swoje życie",
 "pić wino do samego rana",
@@ -436,6 +442,7 @@ var ale_czy_co = [
 "udowodnią że syrop glukozo fruktozowy to samo zdrowie",
 "uda się babci rozwiązać krzyżówkę",
 "inflacja zniszczy majątek Wayne'a",
+"urząd skarbowy wreszcie rozliczy Bruce'a Wayne'a z podejrzanych faktur",
 "uda się udowodnić istnienie UFO",
 "czy Robert oderwie się od komputera na te 10 minut",
 "typowy Nerd spotka tą swoją jedyną połówkę w Tibii",
