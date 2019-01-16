@@ -62,7 +62,7 @@ var evilman = [
 "Janusz Tracz",
 "Batman who laughs",
 "Harley Dent",
-"Peugwin",
+"Penguin",
 "Doomsday Batman"
 ];
 
